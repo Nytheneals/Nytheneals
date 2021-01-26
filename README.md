@@ -1,4 +1,6 @@
-### Hi there 👋 
+### Kon'nichiwa, it's Nathaneals 👨🏾‍💻
+
+I'm a software engineer at CVS HEALTH / Aetna
 
 ```javascript
 const nathaneals = {
