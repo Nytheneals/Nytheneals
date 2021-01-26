@@ -1,6 +1,6 @@
 ### Kon'nichiwa, it's Nathaneals 👨🏾‍💻
 
-I'm a software engineer at CVS HEALTH / Aetna
+I'm a software engineer at CVS HEALTH / Aetna 
 
 ```javascript
 const nathaneals = {
@@ -21,7 +21,7 @@ const nathaneals = {
     ],
     backend: ['node', 'express', 'deno'],
   },
-  devOps: ['AWS', 'Docker🐳'],
+  devOps: ['AWS', 'Docker🐳', 'circleCi', 'GitHub Actions'],
   databases: ['mongoDB', 'MySql', 'sqlite'],
   architecture: [
     'Serverless Architecture',
