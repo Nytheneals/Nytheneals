@@ -1,6 +1,6 @@
 ### Kon'nichiwa, it's Nathaneals 👨🏾‍💻
 
-I'm a software engineer at CVS HEALTH / Aetna 
+I'm a life long learner and Software chef
 
 ```javascript
 const nathaneals = {
@@ -18,6 +18,7 @@ const nathaneals = {
     dataLayer: [
       'Redux (Redux Sagas, Thunks)',
       'GraphQL, Apollo Client, ReactQuery',
+      'Zustand'
     ],
     backend: ['node', 'express', 'deno'],
   },
