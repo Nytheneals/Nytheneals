@@ -1,10 +1,12 @@
 <h1 align='center'> Hi there 👋, I'm Natheaneals Paul </h1>
 
+<p>Senior Software Engineer, Frontend Specialist at CVS Health aside from that, Photography, Lots of TypeScript, AI Research, mostly Next.js nowadays.</p>
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/nytheneals/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nate6d@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
+
 
 
 <hr>
